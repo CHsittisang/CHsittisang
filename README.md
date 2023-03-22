@@ -1,7 +1,7 @@
 
 <p align="left"> 
-    <img src="https://img.shields.io/github/stars/saveffer1" alt="saveffer1" />
-    <img src="https://img.shields.io/github/followers/saveffer1" alt="saveffer1" />
+    <img src="https://img.shields.io/github/stars/CHsittisang" alt="CHsittisang" />
+    <img src="https://img.shields.io/github/followers/CHsittisang" alt="CHsittisang" />
 </p>
 
 ### Welcome to my github
