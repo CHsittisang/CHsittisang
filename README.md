@@ -21,14 +21,14 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+    <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
 
 <br></br>
 
 <div align="center">
   <p> 
   <img src="https://github-readme-stats.vercel.app/api?username=CHsittisang&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  </p>
-  <p> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHsittisang&layout=compact&theme=gotham&langs_count=8"/>
   </p>
 </div>
