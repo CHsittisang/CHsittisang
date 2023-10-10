@@ -28,7 +28,7 @@
 
 <div align="center">
   <p> 
-  <img src="https://github-readme-stats.vercel.app/api?username=CHsittisang&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=CHsittisang&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHsittisang&layout=compact&theme=gotham&langs_count=8"/>
   </p>
 </div>
