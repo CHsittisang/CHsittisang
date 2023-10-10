@@ -10,7 +10,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br></br>
 <div align="center">
-<img src="https://media.tenor.com/Pl4WC5dd83UAAAAC/meme-memes.gif" width="75%">
+<!-- <img src="https://media.tenor.com/Pl4WC5dd83UAAAAC/meme-memes.gif" width="75%"> -->
 </div>
 <br></br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
