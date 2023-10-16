@@ -1,21 +1,23 @@
 
-<p align="left"> 
-    <img src="https://img.shields.io/github/stars/CHsittisang" alt="CHsittisang" />
-    <img src="https://img.shields.io/github/followers/CHsittisang" alt="CHsittisang" />
-</p>
-
 ### Welcome to my github
+<img src="https://i.pinimg.com/564x/21/7b/85/217b851b9b381cc28fed15444a3b543d.jpg" width="250px" display="absolute" align="right">
+
+<br>
+- Name: chanakan
 
 - 👩🏻‍💻 I'm currently studying at [KMITL](https://kmitl.ac.th/)
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<br></br>
-<div align="center">
-<!-- <img src="https://media.tenor.com/Pl4WC5dd83UAAAAC/meme-memes.gif" width="75%"> -->
-</div>
-<br></br>
+
+- 💻 Major in [Computer Engineering](https://ce.kmitl.ac.th/)
+
+- 📫 How to reach me **sittisangch@gmail.com**
+  
+- Hobby: Tech Stuff, Graphic Design, Web Development, model 3D
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h3 align="left">Languages and Tools:</h3>
+
+
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
