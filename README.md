@@ -1,6 +1,6 @@
 
 ### Welcome to my github
-<img src="https://i.pinimg.com/564x/21/7b/85/217b851b9b381cc28fed15444a3b543d.jpg" width="250px" display="absolute" align="right">
+<img src="https://github.com/CHsittisang/CHsittisang/blob/main/asset/217b851b9b381cc28fed15444a3b543d.jpg?raw=true" width="250px" display="absolute" align="right">
 
 <br>
 - Name: chanakan
@@ -13,6 +13,7 @@
   
 - Hobby: Tech Stuff, Graphic Design, Web Development, model 3D
 
+<br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
