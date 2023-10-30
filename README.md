@@ -1,10 +1,12 @@
 
 <h1 align="center">Welcome to my github</h1>
-<img src="https://github.com/CHsittisang/CHsittisang/blob/main/asset/217b851b9b381cc28fed15444a3b543d.jpg?raw=true" width="250px" display="absolute" align="right">
 
+<div>
+<img src="https://github.com/CHsittisang/CHsittisang/blob/main/asset/217b851b9b381cc28fed15444a3b543d.jpg?raw=true" width="250px" display="absolute" align="right">
 <br>
 
-- Name: chanakan
+
+- **Name:** chanakan
 
 - 👩🏻‍💻 I'm currently studying at [KMITL](https://kmitl.ac.th/)
 
@@ -12,15 +14,23 @@
 
 - 📫 How to reach me **sittisangch@gmail.com**
   
-- Hobby: Tech Stuff, Graphic Design, Web Development, model 3D
+- **Hobby:** Tech Stuff, Graphic Design, Web Development, model 3D
+  
+</div>
 
-<br>
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHsittisang" alt="CHsittisang" /></a> </p>
 
+<details>
+<summary><b>View more!</b></summary>
+</br>
+
+  
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHsittisang" alt="CHsittisang" /></a> </p>
+  
 <br>
 <h1 align="center">Languages and Tools:</h1>
+<br>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -37,4 +47,5 @@
 
 </div>
 <br>
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+</details>
+
