@@ -29,7 +29,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CHsittisang" alt="CHsittisang" /></a> </p>
   
 <br>
-<h1 align="center" color="000000">Languages and Tools:</h1>
+<h1 align="center">Languages and Tools:</h1>
 <br>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
